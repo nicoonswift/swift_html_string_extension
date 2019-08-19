@@ -1,6 +1,6 @@
 # Swift HTML String Extension
 
-![Swift version](https://img.shields.io/badge/swift-4.1-blue.svg)
+![Swift version](https://img.shields.io/badge/swift-4.2-blue.svg)
 
 Playground to test HTML tags handling Swift String Extension as described in [blog article](https://medium.com/@valv0/a-swift-extension-for-string-and-html-8cfb7477a510)
 
@@ -8,5 +8,5 @@ Playground to test HTML tags handling Swift String Extension as described in [bl
 
 ### Prerequisites
 
-- Xcode 9.4
-- Swift 4.1
+- Xcode 10.3
+- Swift 4.2
